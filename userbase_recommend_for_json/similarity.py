@@ -1,4 +1,4 @@
-from dataset import dataset
+from userbase_recommend_for_json.dataset import dataset
 from math import sqrt
 
 def get_similairty(person1, person2):

@@ -1,4 +1,4 @@
-from dataset import dataset
+from userbase_recommend_for_json.dataset import dataset
 from similarity import get_similairty
 
 def get_recommend(person, top_N):
